@@ -2,6 +2,7 @@
 - 👀 I’m interested in VPN, music and streaming APIs
 - 🌱 I’m currently learning how to be human
 - 📫 How to reach me on Gmail schoxy
+- 🗺️ Project is vibecoded, because I needed the tool 🗺️☀️⛅⛈️🌧️
 
 <!---
 schox-nor/schox-nor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
